@@ -7,10 +7,6 @@ and the engineering needed to run them reliably. Before markets, I spent 16 year
 production software, including capital-markets and banking technology at
 Financial Technologies and Barclays, and leading teams on a multi-currency remittance platform.
 
-**Currently building**
-- 🔭 **oss-scout**: a local multi-agent system (Ollama) that finds open-source contribution
-  opportunities, researches them, and prepares draft patches that I review, rewrite and submit.
-
 **Focus areas**
 - ML for trading: labelling, meta-labelling, leakage-safe cross-validation, strategy evaluation
 - Python · Go · C++ · C#
