@@ -9,7 +9,7 @@ Financial Technologies and Barclays, and leading teams on a multi-currency remit
 
 **Focus areas**
 - ML for trading: labelling, meta-labelling, leakage-safe cross-validation, strategy evaluation
-- Python · Go · C++ · C#
+- Python · Go · C++ · C# · Rust
 - XGBoost, MLOps, data pipelines, low-latency systems
 
 **Elsewhere**
